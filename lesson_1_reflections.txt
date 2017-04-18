@@ -27,6 +27,9 @@ How can you use the commands git log and git diff to view the history of files?
   'git init' to create a repository
   'git status' to see what changes since last commit
   'git add' to add the file to the staging area
+  'git diff' will compare the working directory with the staging area
+  'git diff --stage' will compare the staging area with the most recent commit
+  'git reset --hard' will discard all the changes in the working directory and the staging area
 
 How might using version control make you more confident to make changes that
 could break something?

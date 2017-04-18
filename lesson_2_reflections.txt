@@ -13,8 +13,13 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+  Only add changes with the same logical change to the staging area.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+  Branches are helpful when the user wants to experiment some of the features, instead of making
+  changes on the production codes. It gives the user a sense of security.
 
 How do the diagrams help you visualize the branch structure?
 
