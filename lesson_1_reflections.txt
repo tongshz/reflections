@@ -1,0 +1,38 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+  I can find the differences between two files, and then compare to check for what has been changed.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+  I can look back to see what I have changed, and make further changes accordingly, or I can just simply refer back to it for later projects.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+  Pros of manually doing it is that I have to total control of what I want to save, rather just saving all the changes, but the cons is that I may forget to save all the versions. Automatically doing this will just have the reverse pros and cons.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+  Because Git is working with many files for one project, whereas Google Docs mainly stores independent files, such as the ones for school.
+
+How can you use the commands git log and git diff to view the history of files?
+
+  'git log' to view the history of all the commits
+  'git diff commitIDA commitIDB --stat' to compare two commits. '--stat' is optional
+  'git clone website' to clone the repository into the current directory
+  'git checkout' to revert to a previous commits
+  'git init' to create a repository
+  'git status' to see what changes since last commit
+  'git add' to add the file to the staging area
+
+How might using version control make you more confident to make changes that
+could break something?
+
+  Version control will let me revert back to my previous codes if I make some mistakes that breaks my program. It adds a safety mechanism.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+  For uploading my files and other stuff
