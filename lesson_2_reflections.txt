@@ -22,6 +22,8 @@ organized? How would branches help?
   changes on the production codes. It gives the user a sense of security.
 
 How do the diagrams help you visualize the branch structure?
+  The diagrams list all the commits the user has made on every branch, so the user will have the
+  opportunity to see where a commit is made.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
